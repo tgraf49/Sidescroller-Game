@@ -1,7 +1,3 @@
-
-Here's a basic template for a README.md file for your Git repository that holds a browser game. You can customize it to fit your specific game and project details:
-
-
 # Motorcycle Jump
 
 ![Game Screenshot](gamescreenshot.png)
@@ -13,7 +9,7 @@ Take a drive down the road of a small Japanese town, all whilest avoiding the sp
 
 ## Play the Game
 
-Include a link or instructions on how to play the game directly in the browser. If the game is hosted online, provide a live demo link.
+Link to play is a work in progress.
 
 ### Controls
 Use your arrow keys to move your character around and do what you must to avoid the spike strips!
